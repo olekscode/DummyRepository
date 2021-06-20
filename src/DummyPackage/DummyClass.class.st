@@ -8,7 +8,7 @@ Class {
 }
 
 { #category : #accessing }
-DummyClass >> dummyMethod [
+DummyClass >> renamedMethod [
 	"Comment"
 	1 + 2.
 	^ self
