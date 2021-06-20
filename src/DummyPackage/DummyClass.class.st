@@ -6,10 +6,3 @@ Class {
 	#superclass : #Object,
 	#category : #DummyPackage
 }
-
-{ #category : #accessing }
-DummyClass >> renamedMethod [
-	"Comment"
-	1 + 2.
-	^ self
-]
