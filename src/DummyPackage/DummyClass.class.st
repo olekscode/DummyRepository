@@ -7,5 +7,6 @@ Class {
 { #category : #'helper methods' }
 DummyClass >> dummyMethod [
 	"Comment"
-	^ self collect: [ :each | each ]
+	1 + 2.
+	^ self
 ]
