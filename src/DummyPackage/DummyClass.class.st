@@ -7,7 +7,7 @@ Class {
 	#category : #DummyPackage
 }
 
-{ #category : #'helper methods' }
+{ #category : #accessing }
 DummyClass >> dummyMethod [
 	"Comment"
 	1 + 2.
