@@ -2,7 +2,7 @@
 An awesome class comment
 "
 Class {
-	#name : #DummyClass,
+	#name : #RenamedClass,
 	#superclass : #Object,
 	#category : #DummyPackage
 }
